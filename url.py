@@ -1,0 +1,2 @@
+FINANCE= 'https://execedprograms.iese.edu/?manda&filter_1=finance&filter_2&filter_3#aqui'
+MARKETING AND SALES MANAGEMENT = 'https://execedprograms.iese.edu/?manda&filter_1=marketing-and-sales-management&filter_2&filter_3#aqui'
